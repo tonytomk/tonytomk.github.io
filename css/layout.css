@@ -35,7 +35,7 @@ header {
    width: 100%;
    background: #161415 url(../images/header-background.jpg) no-repeat top center;
    background-size: cover !important;
-   background-color: rgba(0, 0, 0, 0.75);
+   background-color: rgba(0, 0, 0, 0.6);
    background-blend-mode: darken;
 	-webkit-background-size: cover !important;
    text-align: center;
