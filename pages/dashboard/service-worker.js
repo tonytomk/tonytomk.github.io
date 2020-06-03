@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pages/dashboard/precache-manifest.c386f9029aac6a6370e0a18fc022e427.js"
+  "/pages/dashboard/precache-manifest.d9329e9813aa599d7c598afb9b5d1532.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "covid-dashboard"});
