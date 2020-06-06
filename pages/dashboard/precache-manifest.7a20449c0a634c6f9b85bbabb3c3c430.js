@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "626d6876303dcda51c14",
-    "url": "/pages/dashboard/css/app.234bf2b9.css"
+    "revision": "dd6a6aa51c69df219edb",
+    "url": "/pages/dashboard/css/app.dc58d82b.css"
   },
   {
     "revision": "682faffbd07dff552d16",
@@ -28,12 +28,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pages/dashboard/img/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "dcd169371eeeecc3157dcd78f2d441a0",
+    "revision": "95b68d919efd2beaed7743245735e509",
     "url": "/pages/dashboard/index.html"
   },
   {
-    "revision": "626d6876303dcda51c14",
-    "url": "/pages/dashboard/js/app.ebf99396.js"
+    "revision": "dd6a6aa51c69df219edb",
+    "url": "/pages/dashboard/js/app.56f546d1.js"
   },
   {
     "revision": "682faffbd07dff552d16",
